@@ -92,8 +92,8 @@ rpc.send('myFunction',[0], 'I.*')
 // Multi Levels of .
 rpc.send('myFunction',[0], 'Test.NewZealand')
 
-// Amercia and Europe etc seperate multiple receipents with a comma and space ', '.
-rpc.send('myFunction',[0], 'Amercia, Europe')
+// America and Europe etc seperate multiple receipents with a comma and space ', '.
+rpc.send('myFunction',[0], 'America, Europe')
 
 
 // Expose a function to do something and return
